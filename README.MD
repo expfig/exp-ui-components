@@ -1,4 +1,4 @@
-# React Native exp-ui-components 🎯
+# React Native Exp-ui-components 🎯
 
   Componetes React Native para Android
 
