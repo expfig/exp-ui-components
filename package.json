@@ -4,6 +4,7 @@
   "description": "Componentes pronto para ser reutilizado em aplicações da figueiredo desenvolvido em rn",
   "main": "index.js",
   "author": "Weverson Luan",
+  "repository": "https://github.com/expfig/exp-ui-components.git",
   "license": "MIT",
   "private": true,
   "dependencies": {
