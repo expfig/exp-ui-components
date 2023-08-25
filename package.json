@@ -1,0 +1,23 @@
+{
+  "name": "exp-ui-components",
+  "version": "1.0.0",
+  "description": "Componentes pronto para ser reutilizado em aplicações da figueiredo desenvolvido em rn",
+  "main": "index.js",
+  "author": "Weverson Luan",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "@types/react-native": "*",
+    "typescript": "*"
+  },
+  "devDependencies": {
+    "@types/react-native": "*",
+    "typescript": "*"
+  }
+}
